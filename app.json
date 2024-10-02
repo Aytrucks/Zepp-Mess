@@ -2,7 +2,7 @@
   "configVersion": "v3",
   "app": {
     "appId": 28704,
-    "appName": "Hello World",
+    "appName": "Roberto",
     "appType": "app",
     "version": {
       "code": 1,
@@ -15,7 +15,8 @@
   "permissions": [
     "data:user.hd.heart_rate",
     "data:os.device.info",
-    "device:os.local_storage"
+    "device:os.local_storage",
+    "data:user.hd.calorie"
   ],
   "runtime": {
     "apiVersion": {
@@ -47,7 +48,7 @@
   },
   "i18n": {
     "en-US": {
-      "appName": "Hello World"
+      "appName": "Roberto"
     }
   },
   "defaultLanguage": "en-US"
